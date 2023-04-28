@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tao Teo</string>
+
+    <string name="nameTema">Tic Tac Toe</string>
+
+    <string name="button_play">Play</string>
+
+    <!-- faqja 2  -->
+    <string name="PlayerSetupTitle">Enter Your Name</string>
+    <string name="Label1">Player1</string>
+    <string name="Label2">Player2</string>
+    <string name="submitButton">Submit Names</string>
+    <string name="NameHint">Enter Your Name</string>
+
+    <!-- faqja 3  -->
+    <string name = "playAgainButton">Play Again</string>
+    <string name = "homeButton">Home</string>
+</resources>
